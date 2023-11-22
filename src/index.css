@@ -23,11 +23,13 @@ code {
 
 .btn {
      color: white;
-     background-color: rgb(67, 193, 225);
+     background-color: rgb(67, 225, 99);
      border: none;
     border-radius: 10px;
-     width: 100px;
+     width: 200px;
      height: 60px;
      font-size: 20px;
      text-align: center;
+     margin-right: 20px;
 }
+
